@@ -14,8 +14,7 @@
 ---
 
 ## 👨‍💻 ABOUT ME
-
-class HackerJr:
+**class HackerJr:
     def init(self):
         self.name = "Hacker Jr"
         self.country = "India 🇮🇳"
@@ -35,7 +34,25 @@ class HackerJr:
         return "Keep Learning & Keep Building 🚀"
 
 me = HackerJr()
-print(me.motto())
+print(me.motto())**class HackerJr:
+    def init(self):
+        self.name = "Hacker Jr"
+        self.country = "India 🇮🇳"
+        self.state = "Kerala"
+        self.role = "Student & Developer"
+        self.languages = 
+            "Python", "HTML", "CSS",
+            "JavaScript", "Golang", "C++"
+        self.interests = 
+            "Telegram Bots",
+            "Automation",
+            "Web Development"
+        
+
+    def motto(self):
+        return "Keep Learning & Keep Building 🚀"
+
+me = HackerJr()
 ---
 
 ## 🛠️ TECH STACK
