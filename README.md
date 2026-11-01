@@ -21,15 +21,15 @@ class HackerJr:
         self.country = "India 🇮🇳"
         self.state = "Kerala"
         self.role = "Student & Developer"
-        self.languages = [
+        self.languages = 
             "Python", "HTML", "CSS",
             "JavaScript", "Golang", "C++"
-        ]
-        self.interests = [
+        
+        self.interests = 
             "Telegram Bots",
             "Automation",
             "Web Development"
-        ]
+        
 
     def motto(self):
         return "Keep Learning & Keep Building 🚀"
