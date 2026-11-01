@@ -17,14 +17,14 @@
 class HackerJr:
     def init(self):
         self.name = "Hacker Jr"
-        self.country = " india"
+        self.country = "India 🇮🇳"
         self.state = "Kerala"
-        self.role = "Developer"
-        self.languages = 
-            "Python", "HTML",
-            "JavaScript", "Golang"
+        self.role = "Student & Developer"
+        self.languages = [
+            "Python", "HTML", "CSS",
+            "JavaScript", "Golang", "C++"
         ]
-        self.interests = 
+        self.interests = [
             "Telegram Bots",
             "Automation",
             "Web Development"
