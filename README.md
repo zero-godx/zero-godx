@@ -1,57 +1,66 @@
-<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=447FF7&center=true&vCenter=true&width=650&height=55&lines=Hey!+It's+Hacker+Jr+👋🏻;I+am+a+Student+💻;I+am+from+Kerala,+India+🇮🇳;I+am+a+Developer+🚀;Welcome+To+My+GitHub+Profile!" />⚡ HACKER JR
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&color=00FFFF&center=true&vCenter=true&width=800&height=60&lines=HACKER+JR+⚡;PYTHON+DEVELOPER+💻;TELEGRAM+BOT+DEVELOPER+🤖;WELCOME+TO+MY+GITHUB+PROFILE+🚀" /><img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=180&section=header&text=HACKER%20JR&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>⚡ CODE • CREATE • INNOVATE
 
-👨‍💻 Student | Developer | Tech Enthusiast
+"Profile Views" (https://komarev.com/ghpvc/?username=zero-godx&style=for-the-badge&color=00c6ff)
+"GitHub Followers" (https://img.shields.io/github/followers/zero-godx?style=for-the-badge&color=blue)
 
-<img src="https://komarev.com/ghpvc/?username=zero-godx&label=Profile%20Views&color=blue&style=for-the-badge" /></div>---
+</div>---
 
-👨‍💻 About Me
+👨‍💻 ABOUT ME
 
-- 👋 Hi, I'm Hacker Jr
-- 🇮🇳 From Kerala, India
-- 🎓 Student & Developer
-- 💻 Interested in Programming and Technology
-- 🚀 Learning new technologies
-- ⚙️ Building Telegram Bots
+class HackerJr:
+    def init(self):
+        self.name = "Hacker Jr"
+        self.country = "India 🇮🇳"
+        self.state = "Kerala"
+        self.role = "Student & Developer"
+        self.languages = [
+            "Python", "HTML", "CSS",
+            "JavaScript", "Golang", "C++"
+        ]
+        self.interests = [
+            "Telegram Bots",
+            "Automation",
+            "Web Development"
+        ]
 
----
+    def motto(self):
+        return "Keep Learning & Keep Building 🚀"
 
-🛠️ Languages & Technologies
+me = HackerJr()
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,html,css,javascript,go,cpp,git,github,vscode,mongodb" />
-</p>---
-
-📊 GitHub Statistics
-
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=zero-godx&theme=highcontrast&hide_border=true&show_icons=true&include_all_commits=true&count_private=true"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=zero-godx&theme=highcontrast&hide_border=true"/>
-</p><p align="center">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zero-godx&theme=highcontrast&hide_border=true&layout=compact"/>
-</p>---
-
-🏆 GitHub Trophies
+🛠️ TECH STACK
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=zero-godx&theme=matrix&no-frame=true&no-bg=true&margin-w=4"/>
-</p>---
-
-🐍 Contribution Snake
+<img src="https://skillicons.dev/icons?i=python,html,css,javascript,go,cpp,mongodb,git,github,vscode&theme=dark" />
+</p>📊 GITHUB STATISTICS
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/zero-godx/zero-godx/output/github-contribution-grid-snake-dark.svg" />
-</p>---
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=zero-godx&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=zero-godx&theme=tokyonight&hide_border=true"/>
+</p>💻 MOST USED LANGUAGES
 
-🌐 Connect With Me
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zero-godx&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>🏆 GITHUB TROPHIES
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=zero-godx&theme=algolia&no-frame=true&row=1"/>
+</p>📈 CONTRIBUTION GRAPH
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zero-godx&theme=tokyo-night&hide_border=true"/>
+</p>🐍 CONTRIBUTION SNAKE
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/zero-godx/zero-godx/output/github-contribution-grid-snake-dark.svg"/>
+</p>🌐 CONNECT WITH ME
 
 <p align="center">
 <a href="https://github.com/zero-godx">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
 </a>
 </p>---
 
-<div align="center">⚡ KEEP LEARNING • KEEP BUILDING • KEEP GROWING
-
-🚀 POWERED BY HACKER JR
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=00FFFF&center=true&vCenter=true&width=600&lines=THANKS+FOR+VISITING+MY+PROFILE!;KEEP+CODING+⚡;SEE+YOU+AGAIN+🚀"/>⚡ POWERED BY HACKER JR ⚡
 
 </div>
